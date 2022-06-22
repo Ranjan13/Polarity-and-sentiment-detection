@@ -65,12 +65,7 @@ Polarity and Subjective classification with Multitask Learning and BERT Embeddin
 
 Note: The glove and bert embeddings of both the datasets are provided. Make sure you check the relative paths before running the code and change the file names while saving the model.
 
-## Citation
+## If you are using our work kindly cite us :
 ```
-@unpublished{ranjan,
-author = "Ranjan Satapathy, Shweta Pardeshi, Erik Cambria",
-title = "Polarity and Subjective classification with Multitask Learning and BERT Embedding"
-journal = arXiv preprint arXiv:2201.05363
-doi = "https://doi.org/10.48550/arXiv.2201.05363"
-}
+Satapathy, R.; Pardeshi, S.R.; Cambria, E. Polarity and Subjectivity Detection with Multitask Learning and BERT Embedding. Future Internet 2022, 14, 191. https://doi.org/10.3390/fi14070191
 ```
